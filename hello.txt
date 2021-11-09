@@ -3,4 +3,9 @@
 first chamge in local repo
 Second change in remote repo
 
+<<<<<<< HEAD
 Therd cahnge in local repo
+=======
+
+Therd change from remote repo
+>>>>>>> fd26ec2815419353308f83ca60861c20df4511c9
