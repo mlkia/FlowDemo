@@ -13,4 +13,8 @@ Therd change from remote repo
 
 change after conflict
 
+<<<<<<< HEAD
 The last change from local repo
+=======
+The last change from remote repo
+>>>>>>> d5aa6f77b3e8b434b504970b6927b7bd90f11efd
