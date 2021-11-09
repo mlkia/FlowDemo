@@ -13,4 +13,4 @@ Therd change from remote repo
 
 change after conflict
 
-The last change
+The last change from remote repo
