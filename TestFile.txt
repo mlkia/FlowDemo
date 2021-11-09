@@ -7,3 +7,5 @@ Therd change in local repo
 Froth change from locla repo
 
 Fifth change from remote repo
+
+change after conflict
