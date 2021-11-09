@@ -12,3 +12,5 @@ Therd change from remote repo
 
 
 change after conflict
+
+The last change from local repo
